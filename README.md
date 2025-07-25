@@ -13,8 +13,8 @@ This is a custom-built web project using:
 To run the project locally:
 
 ```bash
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone git@github.com:sl11k/Personal-website.git
+cd Personal-website/src
 npm install
 npm run dev
 ```
